@@ -1,0 +1,8 @@
+.input-container {
+	display: flex;
+	justify-content: center;
+}
+input {
+	width: 20%;
+	margin-bottom: 20px;
+}
